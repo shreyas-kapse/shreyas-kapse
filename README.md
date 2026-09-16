@@ -1,29 +1,33 @@
 # Hi, I'm Shreyas Kapse 👋
 
-**AI Engineer** building LLM systems, RAG pipelines, and multi-agent workflows — on top of production Java backend infrastructure.
+**Software Development Engineer (AI)** building LLM systems, retrieval pipelines, parameter-efficient fine-tuning (LoRA/PEFT), and multi-agent workflows — on top of production Java backend infrastructure.
 
 Currently at **Predii, Pune** — extending LLM retrieval systems and building AI-driven data pipelines.
 
 ---
 
-## 🔨 What I'm Building
+## 🚀 Featured Projects
 
 | Project | Stack | Description |
 |---|---|---|
+| [🎥 YouTube RAG Bot](https://github.com/shreyas-kapse/youtube_bot) | LangChain · Qdrant · BM25 · RAGAS | Hybrid RAG pipeline over YouTube transcripts with timestamp-grounded answers and a Chrome Extension |
 | [🤖 AI PR Reviewer](https://github.com/shreyas-kapse/ai_pr_reviewer) | LangGraph · FastAPI · Gemini · Ollama | Parallel multi-agent GitHub App that reviews PRs for security, bugs, and performance |
-| [🎥 YouTube RAG Bot](https://github.com/shreyas-kapse/youtube_bot) | LangChain · Qdrant · BM25 · RAGAS | Hybrid RAG pipeline over YouTube transcripts with timestamp-grounded answers and Chrome Extension |
+| [🔍 Support Ticket → KB Matcher](https://github.com/shreyas-kapse/support-ticket-to-kb) | TF-IDF · Sentence Transformers · FAISS · Hybrid Retrieval | Semantic search & information retrieval system matching support tickets to KB articles — 86.25% Top-1 accuracy, 99.83% Recall@5, with leakage-free train/tune/test evaluation |
+| [📱 DistilBERT + LoRA Fine-Tuning](https://github.com/shreyas-kapse/fine-tune-sms) | DistilBERT · LoRA · PEFT · Hugging Face | Parameter-efficient fine-tuning benchmark — 99.42% accuracy training only 1.73% of model parameters vs. full fine-tuning |
 
 ---
 
-## 🧠 AI / ML Stack
+## 🧠 AI / ML / NLP Stack
 
 ```
-LangChain · LangGraph · RAG Pipelines · Qdrant · BM25 · Vector Databases
-LangSmith · RAGAS · Pydantic · Streamlit
-Ollama · Google Gemini · HuggingFace
+LLMs & Agents:        LangChain · LangGraph · RAG Pipelines · Multi-Agent Systems · RAGAS
+Retrieval & Search:   FAISS · Qdrant · BM25 · Sentence Transformers · Hybrid Retrieval · Vector Search
+Fine-Tuning & PEFT:   LoRA · QLoRA · Hugging Face Transformers · DistilBERT · bitsandbytes
+Evaluation:           MRR · NDCG · Macro F1 · Precision/Recall · Held-out Test Evaluation
+Tooling:              LangSmith · Pydantic · Streamlit · Ollama · Google Gemini
 ```
 
-## ⚙️ Backend Stack
+## ⚙️ Backend & Infrastructure Stack
 
 ```
 Python · Java · Spring Boot · FastAPI · Node.js
