@@ -37,13 +37,6 @@ RabbitMQ · Apache Kafka · Docker
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shreyas-kapse&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-kapse&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## 📬 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://shreyas-kapse.github.io/portfolio)
